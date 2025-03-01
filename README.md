@@ -1,4 +1,4 @@
-# Ecommerce-Application-adding-product-to-the-cart-and-order-purchase.
+# Ecommerce-Application-adding-product-to-the-cart-and-order-purchase. This is a standalone project, No framework is used in this project.
 This project automates the end-to-end process of purchasing a product on an E-commerce website using Selenium WebDriver, Java, and TestNG. The script will:
 Login to the website.
 Select a product.
